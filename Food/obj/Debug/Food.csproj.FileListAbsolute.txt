@@ -1,0 +1,208 @@
+D:\Study Material\Food\Food\bin\Food.dll.config
+D:\Study Material\Food\Food\bin\Food.dll
+D:\Study Material\Food\Food\bin\Food.pdb
+D:\Study Material\Food\Food\bin\Antlr3.Runtime.dll
+D:\Study Material\Food\Food\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Study Material\Food\Food\bin\AspNet.ScriptManager.jQuery.dll
+D:\Study Material\Food\Food\bin\EntityFramework.dll
+D:\Study Material\Food\Food\bin\EntityFramework.SqlServer.dll
+D:\Study Material\Food\Food\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Study Material\Food\Food\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Study Material\Food\Food\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study Material\Food\Food\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study Material\Food\Food\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Study Material\Food\Food\bin\Microsoft.Owin.dll
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.dll
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.Google.dll
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Study Material\Food\Food\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Study Material\Food\Food\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Study Material\Food\Food\bin\Microsoft.Web.Infrastructure.dll
+D:\Study Material\Food\Food\bin\Newtonsoft.Json.dll
+D:\Study Material\Food\Food\bin\Owin.dll
+D:\Study Material\Food\Food\bin\System.Web.Optimization.dll
+D:\Study Material\Food\Food\bin\System.Web.Providers.dll
+D:\Study Material\Food\Food\bin\WebGrease.dll
+D:\Study Material\Food\Food\bin\System.Web.Optimization.xml
+D:\Study Material\Food\Food\bin\Antlr3.Runtime.pdb
+D:\Study Material\Food\Food\bin\Newtonsoft.Json.xml
+D:\Study Material\Food\Food\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Study Material\Food\Food\bin\EntityFramework.xml
+D:\Study Material\Food\Food\bin\EntityFramework.SqlServer.xml
+D:\Study Material\Food\Food\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Study Material\Food\Food\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Study Material\Food\Food\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study Material\Food\Food\bin\Microsoft.Owin.xml
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.xml
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.Google.xml
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Study Material\Food\Food\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Study Material\Food\Food\obj\Debug\Food.csprojResolveAssemblyReference.cache
+D:\Study Material\Food\Food\obj\Debug\Food.dll
+D:\Study Material\Food\Food\obj\Debug\Food.pdb
+D:\Dave Tricks\BCA Project\Food\bin\Food.dll.config
+D:\Dave Tricks\BCA Project\Food\bin\Food.dll
+D:\Dave Tricks\BCA Project\Food\bin\Food.pdb
+D:\Dave Tricks\BCA Project\Food\bin\Antlr3.Runtime.dll
+D:\Dave Tricks\BCA Project\Food\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Dave Tricks\BCA Project\Food\bin\AspNet.ScriptManager.jQuery.dll
+D:\Dave Tricks\BCA Project\Food\bin\EntityFramework.dll
+D:\Dave Tricks\BCA Project\Food\bin\EntityFramework.SqlServer.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.Google.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Web.Infrastructure.dll
+D:\Dave Tricks\BCA Project\Food\bin\Newtonsoft.Json.dll
+D:\Dave Tricks\BCA Project\Food\bin\Owin.dll
+D:\Dave Tricks\BCA Project\Food\bin\System.Web.Optimization.dll
+D:\Dave Tricks\BCA Project\Food\bin\System.Web.Providers.dll
+D:\Dave Tricks\BCA Project\Food\bin\WebGrease.dll
+D:\Dave Tricks\BCA Project\Food\bin\System.Web.Optimization.xml
+D:\Dave Tricks\BCA Project\Food\bin\Antlr3.Runtime.pdb
+D:\Dave Tricks\BCA Project\Food\bin\Newtonsoft.Json.xml
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Dave Tricks\BCA Project\Food\bin\EntityFramework.xml
+D:\Dave Tricks\BCA Project\Food\bin\EntityFramework.SqlServer.xml
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.xml
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.xml
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.Google.xml
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dave Tricks\BCA Project\Food\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dave Tricks\BCA Project\Food\obj\Debug\Food.dll
+D:\Dave Tricks\BCA Project\Food\obj\Debug\Food.pdb
+D:\Dave Tricks\BCA Project\Food\obj\Debug\Food.csprojResolveAssemblyReference.cache
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Food.dll.config
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Food.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Food.pdb
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Antlr3.Runtime.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\AspNet.ScriptManager.jQuery.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\EntityFramework.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\EntityFramework.SqlServer.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.Google.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Web.Infrastructure.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Newtonsoft.Json.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Owin.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\System.Web.Optimization.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\System.Web.Providers.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\WebGrease.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\System.Web.Optimization.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Antlr3.Runtime.pdb
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Newtonsoft.Json.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\EntityFramework.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\EntityFramework.SqlServer.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.Google.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Bca Project\Sem5 Project\BCA Project\Food\obj\Debug\Food.dll
+D:\Bca Project\Sem5 Project\BCA Project\Food\obj\Debug\Food.pdb
+D:\Bca Project\Sem5 Project\BCA Project\Food\obj\Debug\Food.csproj.AssemblyReference.cache
+D:\Bca Project\Sem5 Project\BCA Project\Food\obj\Debug\Food.csproj.CoreCompileInputs.cache
+D:\Bca Project\Sem5 Project\BCA Project\Food\obj\Debug\Food.csproj.CopyComplete
+D:\BCA Project sem-5\BCA Project\Food\bin\Food.dll.config
+D:\BCA Project sem-5\BCA Project\Food\bin\Food.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Food.pdb
+D:\BCA Project sem-5\BCA Project\Food\bin\Antlr3.Runtime.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\AspNet.ScriptManager.bootstrap.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\AspNet.ScriptManager.jQuery.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\EntityFramework.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\EntityFramework.SqlServer.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.Google.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.ScriptManager.WebForms.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Web.Infrastructure.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Newtonsoft.Json.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\Owin.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\System.Web.Optimization.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\System.Web.Providers.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\WebGrease.dll
+D:\BCA Project sem-5\BCA Project\Food\bin\System.Web.Optimization.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Antlr3.Runtime.pdb
+D:\BCA Project sem-5\BCA Project\Food\bin\Newtonsoft.Json.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\EntityFramework.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\EntityFramework.SqlServer.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.Google.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BCA Project sem-5\BCA Project\Food\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BCA Project sem-5\BCA Project\Food\obj\Debug\Food.csproj.AssemblyReference.cache
+D:\BCA Project sem-5\BCA Project\Food\obj\Debug\Food.csproj.CoreCompileInputs.cache
+D:\BCA Project sem-5\BCA Project\Food\obj\Debug\Food.csproj.CopyComplete
+D:\BCA Project sem-5\BCA Project\Food\obj\Debug\Food.dll
+D:\BCA Project sem-5\BCA Project\Food\obj\Debug\Food.pdb

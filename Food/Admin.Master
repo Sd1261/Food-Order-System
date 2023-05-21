@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="Food.Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+   
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            height: 109px;
+            border-radius:15px;
+        }
+        .auto-style2 {
+            text-align: center;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            border-radius:15px;
+        }
+        .auto-style3 {
+            font-size: xx-large;
+            text-align: center;
+            color: #CC3300;
+            height: 113px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="auto-style1" >
+            <tr>
+             <td class="auto-style3" style="background-color: #000000; font-family: Arial, Helvetica, sans-serif; color: #FFFFFF">
+             <strong style="font-size: xx-large; text-decoration: underline"><h1>Admin Panel</h1></strong></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" style="background-color: #CC9900; padding-top:10px; padding-bottom:8px; background-image: url('/Images/loginbg.jpg');" >
+                    <asp:Button ID="Button1" runat="server" Height="56px" Text="Add Category" Width="179px" CssClass="btn btn-warning" Font-Bold="True" Font-Size="Medium" ForeColor="#333333" PostBackUrl="~/AddCategory.aspx" />
+&nbsp;&nbsp;
+                    <asp:Button ID="Button2" runat="server" Height="57px" Text="Add Product" Width="179px" CssClass="btn btn-warning" Font-Bold="True" Font-Size="Medium" ForeColor="#333333" PostBackUrl="~/AddProduct.aspx" />
+&nbsp;&nbsp;
+                    <asp:Button ID="Button3" runat="server" Height="57px" Text="View Feedback" Width="179px" CssClass="btn btn-warning" Font-Bold="True" Font-Size="Medium" ForeColor="#333333" PostBackUrl="~/Viewfeedback.aspx" />
+&nbsp;&nbsp;
+                    <asp:Button ID="Button4" runat="server" Height="57px" Text="View Order" Width="179px" CssClass="btn btn-warning" Font-Bold="True" Font-Size="Medium" ForeColor="#333333" PostBackUrl="~/ViewOrder.aspx" />
+&nbsp;&nbsp;
+                    <asp:Button ID="Button5" runat="server" Height="57px" Text="Logout" Width="179px" CssClass="btn btn-danger" Font-Bold="True" Onclick="Button5_Click" />
+                </td>
+            </tr>
+            </table>
+        </h1>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+    </div>
+    </form>
+</body>
+</html>

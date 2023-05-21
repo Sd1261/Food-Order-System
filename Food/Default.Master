@@ -1,0 +1,112 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="Food.Default" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <style type="text/css">
+        .auto-style1 {
+            width: 844px;
+            height: 50px;
+        }
+        .auto-style2 {
+            height: 24px;
+        }
+        .auto-style3 {
+            height: 40px;
+        }
+        .auto-style4 {
+            height: 54px;
+        }
+        .auto-style5 {
+            width: 220px;
+            height: 50px;
+        }
+        .divs {        
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            border-radius: 10px 20px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table style="width:1289px; margin:0 auto;" class="divs">
+            <tr style="width:2000px; margin:0 auto; border-color:#5f98f3; background-color:white">
+                <td class="auto-style1"> <asp:Image ID="Image1" runat="server" Height="143px" ImageUrl="~/Images/ab.jpg" Width="387px" /></td>
+               
+                <td style="text-align:right" class="auto-style5">
+                    <asp:ImageButton ID="ImageButton1" runat="server" Height="50px" style="text-align:left" PostBackUrl="https://www.instagram.com" ImageUrl="~/Images/s1.png" Width="50px" />
+                    <asp:ImageButton ID="ImageButton2" runat="server" Height="50px" style="text-align:left" PostBackUrl="https://www.facebook.com/" ImageUrl="~/Images/s2.png" Width="50px" />
+                    <asp:ImageButton ID="ImageButton3" runat="server" Height="50px" style="text-align:left" PostBackUrl="" ImageUrl="~/Images/s3.png" Width="52px" />
+                    <asp:ImageButton ID="ImageButton4" runat="server" Height="55px" style="text-align:left" ImageUrl="~/Images/s4.png" Width="55px" CausesValidation="False" PostBackUrl="~/AddToCart.aspx" />
+                </td>
+            </tr>
+            <tr style="width:100px; background-color:#757a82">
+                <td colspan="3" class="auto-style4">
+
+    <div>
+  <nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/Default">Neelkhant</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="../Default">Home</a></li>
+      <li><a href="Contact us.aspx">contact Us</a></li>
+      <li><a href="About us.aspx">About Us</a></li>
+      <li><a href="Feedback1.aspx">Feedback</a></li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a id="btnsignup" runat="server" visible="false" href="Signup.aspx"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+      <li><a id="btnlogin" runat="server" visible="false" href="Login.aspx"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      <li><a id="btnlogout" runat="server" visible="false" href="Login.aspx"><span class="glyphicon glyphicon-log-in"></span>  Logout</a></li>
+    </ul>
+  </div>
+</nav>
+</div>
+</td>
+</tr>
+<tr style="width:1289px; height:310px;">
+<td colspan="3">
+    <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+    <asp:UpdatePanel ID="UpdatePanel1" runat="server"> 
+    <ContentTemplate>
+    <asp:Timer ID="Timer1" runat="server" Interval="2000" OnTick="Timer1_Tick"></asp:Timer>
+    <asp:Image ID="Image2" runat="server" BackColor="Silver" BorderColor="Gray" BorderStyle="Dotted" Height="290px" Width="1289px" />
+    </ContentTemplate> 
+    </asp:UpdatePanel>
+</td>
+</tr>
+    <tr>
+    <td colspan="3" class="auto-style2">
+<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+</asp:ContentPlaceHolder>
+    </td>
+    </tr>
+     <tr style="width:1100px; background-color:black; text-align:center; color:white">
+     <td colspan="3" class="auto-style3" style="font-size: medium">
+      &copy;Nilkhant Restaurant. | All Right Reserved | Developed By:SAMIR DAVE.
+     </td>
+     </tr>
+    </table>
+        <!-- Start of LiveChat (www.livechatinc.com) code -->
+<script>
+    window.__lc = window.__lc || {};
+    window.__lc.license = 12410880;
+    ; (function (n, t, c) { function i(n) { return e._h ? e._h.apply(null, n) : e._q.push(n) } var e = { _q: [], _h: null, _v: "2.0", on: function () { i(["on", c.call(arguments)]) }, once: function () { i(["once", c.call(arguments)]) }, off: function () { i(["off", c.call(arguments)]) }, get: function () { if (!e._h) throw new Error("[LiveChatWidget] You can't use getters before load."); return i(["get", c.call(arguments)]) }, call: function () { i(["call", c.call(arguments)]) }, init: function () { var n = t.createElement("script"); n.async = !0, n.type = "text/javascript", n.src = "https://cdn.livechatinc.com/tracking.js", t.head.appendChild(n) } }; !n.__lc.asyncInit && e.init(), n.LiveChatWidget = n.LiveChatWidget || e }(window, document, [].slice))
+</script>
+<noscript><a href="https://www.livechatinc.com/chat-with/12410880/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
+<!-- End of LiveChat code -->
+
+    </div>
+    </form>
+</body>
+</html>

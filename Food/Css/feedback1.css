@@ -1,0 +1,112 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=swap');
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Source Sans Pro', sans-serif;
+	width: 100%;
+	height: 100vh;
+	background: linear-gradient(0deg, #6b3aff 50%, #fff 50%, #fff);
+}
+.wrapper
+{
+	position: absolute;
+	top: 56%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 500px;
+	padding: 30px;
+	box-sizing: border-box;
+	background: #fff;
+	box-shadow: 0 10px 30px rgba(0,0,0,.5);
+}
+.wrapper h2
+{
+	color: #666;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 20px;  /* contact us font size*/
+	text-transform: uppercase;
+}
+.input-field
+{
+	position: relative;
+	width: 100%;
+	margin-top: 50px;
+}
+.input-field input,
+.input-field textarea
+{
+	width: 100%;
+	padding: 5px;
+	box-sizing: border-box;
+	background: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 2px solid #666;
+	font-size: 10px; /* line text*/
+	color: #666;
+	font-weight: 700;
+	text-transform: uppercase;
+	resize: none;
+}
+.input-field label
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 5px 0;
+	pointer-events: none;
+	font-size: 16px;
+	color: #666;
+	font-weight: 700;
+	text-transform: uppercase;
+	transition: 0.5s;
+}
+.input-field input:focus + label,
+.input-field textarea:focus + label,
+.input-field input:valid + label,
+.input-field textarea:valid + label
+{
+	top: -25px;
+	font-size: 14px;
+	padding: 2px 5px;
+	background: #ff006a;
+	color: #fff;
+	border-radius: 4px
+}
+.btn
+{
+	margin-top: 20px;
+	background: #ff006a;
+	color: #fff;
+	padding: 15px 30px;
+	border: none;
+	outline: none;
+	border-radius: 30px;
+	font-weight: 700;
+	text-transform: uppercase;
+	font-size: 14px;
+	transition: 0.5s;
+	float: right;
+}
+.btn:hover
+{
+	background: #6b3aff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

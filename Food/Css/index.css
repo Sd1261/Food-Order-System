@@ -1,0 +1,232 @@
+﻿
+
+body {
+    
+    margin:0px;
+    padding:0px;
+    background-color:white;
+    
+}
+*{
+    margin:0px 0px 0px 40px;
+    padding:0px;
+    font-family:"poppins",sans-serif;
+
+}
+nav img{
+    width:150px;
+    height:100px;
+    margin-left:50px;
+    
+}
+
+
+.main{
+    padding:2px;
+    
+}
+nav{
+    background-color:black;
+    width:100%;
+    height:100px;
+   
+    position:fixed;
+    top:0;
+    border-radius:10px;
+    
+
+   
+   
+    
+}
+nav ul li:hover{
+    background-color:gold;
+   
+}
+.btn_log:hover{
+    background-color:none;
+}
+.btn_log{
+    float:right;
+    margin-left:50px;
+    
+ 
+}
+.btn_log a{
+    color:red;
+    background-color:orange;
+    border-radius:10px;
+}
+nav ul{
+    float:right;
+    margin-right:100px;
+    line-height:70px;
+    border-radius:30px;
+    margin-top:15px;
+
+    
+}
+
+.nav_btn {
+    display:inline-block;
+    margin-left:15px;
+    float:right;
+}
+.user_info{
+    display:inline-block;
+    margin-left:50px;
+    float:right;
+}
+.nav_btn a {
+    font-size:15px;
+    padding:20px 20px;
+    color:white;
+}
+.nav_btn:hover{
+    background-color:red;
+}
+nav ul li{
+    list-style-type:none;
+    text-decoration:none;
+    padding:0px;
+    
+    display:inline-block;
+    transition:0.5s;
+    border-radius:25px;
+
+
+}
+nav ul li a{
+   font-size:15px;
+   text-decoration:none;
+   padding:20px;
+   color:orange;
+
+}
+
+
+
+
+.slider{
+    overflow:hidden;
+
+   
+} 
+.slider figure{
+    position: relative;
+    width:500%;
+    margin:0;
+    left:0;
+    margin-top:170px;
+    animation:15s slider infinite;
+    
+}
+.slider figure img{
+    float:left;
+    width:20%;
+    height:450px;
+}
+@keyframes slider{
+    20%{
+        left:0;
+    }
+    40%{
+        left:-100%;
+    }
+    60%{
+        left:-200%;
+    }
+    80%{
+        left:-300%;
+    }
+    100%{
+        left:-400%;
+    }
+    
+}
+.rating_title{
+    color:black;
+    text-align:center;
+}
+
+table{
+    border:0px solid;
+    border-color:black;
+    width:100%;
+}
+table tr{
+    
+}
+table td{
+    width:25%;
+    color:black;
+    
+}
+table td img{
+    width:80%;
+    margin-left:45px;
+    
+}
+table .item_name{
+    text-align:center;
+    font-size:25px;
+}
+table .item_prize{
+    text-align:center;
+    font-size:25px;
+}
+table .item_prize td{
+    color:green;
+}
+.checked{
+    color:orange;
+}
+.rating{
+    text-align:center;
+    font-size:25px;
+}
+.zoom{
+    transition:transform 1s;
+    
+    
+}
+.zoom:hover{
+    transform:scale(1.2);
+}
+
+
+
+.order_text{
+    width:100%;
+    height:150px;
+    background-color:white;
+    text-align:center;
+}
+.order_text h1{
+    
+    color:black;
+}
+.order_text p{
+    
+    color:black;
+}
+.order_btn{
+    color:white;
+    text-decoration:none;
+    
+    background-color:black;
+    border-radius:20px;
+    font-size:40px;
+    padding:10px 20px;
+    margin-top:20px;
+    transition:0.5s;
+}
+.order_btn:hover{
+    background-color:red;
+}
+
+
+
+
+
+
